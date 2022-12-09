@@ -13,7 +13,7 @@ export default function App() {
         <Router>
             <ScrollToTop>
                 <Routes>
-                    <Route exact path='/' exact element={<Home />} />
+                    <Route exact path='/' element={<Home />} />
                     <Route path='/about' element={<About />} />
                     <Route path='/sneaker-central' element={<SneakerCentral/>} />
                     <Route path='/yhangry' element={<Yhangry/>} />
