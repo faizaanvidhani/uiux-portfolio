@@ -1,0 +1,9 @@
+.footer {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    display: flex;
+    justify-content: center;
+    font-family: Roboto,sans-serif;
+    text-transform: uppercase;
+    background-color: #F4F8FF;
+}

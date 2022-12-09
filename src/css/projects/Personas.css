@@ -1,0 +1,27 @@
+.personas-image {
+    width: 40vw;
+    height: 60vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.personas-sketch-image {
+    width: 50vw;
+    height: 60vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.personas-empathy-map-image {
+    width: 60vw;
+    height: 100vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.personas-storyboard-image {
+    width: 70vw;
+    height: 55vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}

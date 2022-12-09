@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Sneaker Central",
+        "image": "images/sneakers.png",
+        "subtitle": "UIUX",
+        "date": "Fall 2022",
+        "description": "An interactive interface that allows shoe enthusiasts to explore and select their favorite kicks."
+    },
+    {
+        "title": "China One Restaurant Redesign",
+        "image": "images/chinese-full.png",
+        "subtitle": "UIUX",
+        "date": "Fall 2022",
+        "description": "A redesigned interface belonging to a local Chinese restaurant."
+    },
+    {
+        "title": "Yhangry Interface",
+        "image": "images/yhangry.jpeg",
+        "subtitle": "UIUX",
+        "date": "Fall 2022",
+        "description": "An iterative interface that provides a solution to the concept of an existing startup called yhangry."
+    },
+    {
+        "title": "Personas and Storyboarding",
+        "image": "images/personas.jpg",
+        "subtitle": "UIUX",
+        "date": "Fall 2022",
+        "description": "A summary of a classic UX task to better understand user experiences at a local laundromat."
+    }  
+]

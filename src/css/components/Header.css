@@ -1,0 +1,84 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5vh;
+    font-family: Roboto,sans-serif;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-bottom: 5vh;
+    background-color: #F4F8FF;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.header-navbar {
+    display: flex;
+    font-size: 2vw;
+    gap: 3rem;
+    line-height: 1.5;
+    align-items: center;
+}
+
+.header-name {
+    font-size: 4vw;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(58,72,180);
+}
+
+.header-name:hover {
+    cursor: pointer;
+}
+
+.header-logo {
+    display: inline-block;
+    position: relative;
+}
+
+.header-logo::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 5px;
+    bottom: 0;
+    left: 0;
+    background: rgb(58,72,180);
+    background: linear-gradient(225deg, rgba(58,72,180,0.9962578781512605) 0%, rgba(143,29,253,0.9934567577030813) 50%, rgba(255,30,3,0.9962578781512605) 100%);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.header-logo:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    transition: transform 0.25s ease-out;
+}
+
+.header-navbar-item {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+}
+  
+  .header-navbar-item::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 5px;
+    bottom: 0;
+    left: 0;
+    background: rgb(58,72,180);
+    background: linear-gradient(225deg, rgba(58,72,180,0.9962578781512605) 0%, rgba(143,29,253,0.9934567577030813) 50%, rgba(255,30,3,0.9962578781512605) 100%);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+  
+.header-navbar-item:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    transition: transform 0.25s ease-out;
+}

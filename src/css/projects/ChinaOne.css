@@ -1,0 +1,17 @@
+.china-one-image-text-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.china-one-image {
+    width: 40vw;
+    height: 60vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.china-one-image-caption {
+    width: 60%;
+    line-height: 1.3rem;
+    text-align: center;
+}

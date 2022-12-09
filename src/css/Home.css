@@ -1,0 +1,19 @@
+.home {
+    padding-left: 7vw;
+    padding-right: 7vw;
+    background-color: #F4F8FF;
+}
+
+.projects-list {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fill, 40vw);
+    padding-top: 3vh;
+    padding-bottom: 10vh;
+}
+
+.project-list-header {
+    font-family: Roboto,sans-serif;
+    font-size: 1.75vw;
+    font-weight: 700;
+}
