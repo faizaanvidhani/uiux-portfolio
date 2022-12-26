@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uiux-portfolio/static/css/main.4a1c5ae3.css",
-    "main.js": "/uiux-portfolio/static/js/main.097715f3.js",
+    "main.js": "/uiux-portfolio/static/js/main.7824f90a.js",
     "index.html": "/uiux-portfolio/index.html",
     "main.4a1c5ae3.css.map": "/uiux-portfolio/static/css/main.4a1c5ae3.css.map",
-    "main.097715f3.js.map": "/uiux-portfolio/static/js/main.097715f3.js.map"
+    "main.7824f90a.js.map": "/uiux-portfolio/static/js/main.7824f90a.js.map"
   },
   "entrypoints": [
     "static/css/main.4a1c5ae3.css",
-    "static/js/main.097715f3.js"
+    "static/js/main.7824f90a.js"
   ]
 }
